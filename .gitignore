@@ -1,0 +1,10 @@
+.env
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+*.py[cod]
+*$py.class
+*.session
+module_render/exports/
+.DS_Store
