@@ -1,8 +1,6 @@
 # 🤖 Automated Job Board Engine (Social Auto-Publisher)
 
-<video src="demo.mp4" controls="controls" style="max-width: 100%;">
-  Tu navegador no soporta el formato de video. <a href="demo.mp4">Descargar Video Demo</a>
-</video>
+### [▶️ HAZ CLIC AQUÍ PARA REPRODUCIR EL VIDEO DEMO DE LA ARQUITECTURA](./demo.mp4)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
